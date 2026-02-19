@@ -1,6 +1,6 @@
 # Stock Trading with Reinforcement Learning
 
-A reinforcement learning system that trains DQN, PPO, and A2C agents to trade stocks using technical indicators as observations. Compares agent performance across multiple stock symbols.
+A reinforcement learning system that trains Reinforcement agents to trade stocks using technical indicators as observations. Compares agent performance across multiple stock symbols.
 
 ## Project Structure
 
