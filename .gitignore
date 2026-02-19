@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Models (large binary files)
+models/*.zip
+models/*.pkl
+
+# Tensorboard logs
+logs/
+*_tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
